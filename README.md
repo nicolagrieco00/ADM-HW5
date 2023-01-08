@@ -13,4 +13,4 @@ This first notebook has been runned on Jupyter Lab and it contains all the solut
 
 This second file contains the answer to the command line question.
 
-If needed, in this nbviewer link you can find the notebook visible if any kind of problems occurs while reading the file on GitHub: 
+If needed, in this nbviewer link you can find the notebook visible if any kind of problems occurs while reading the file on GitHub: https://nbviewer.org/github/nicolagrieco00/ADM-HW5/blob/main/main.ipynb
