@@ -1,4 +1,4 @@
-# ADM-HW5
+# ADM-HW5 GROUP #2
 ## The Marvel Universe!
 
 This repository contains the code related to the third homework of the course Algorithmic Methods of Data Mining and Laboratory 2022/2023.
